@@ -1,0 +1,6 @@
+## instalando tailwindcss
+npm install -D tailwindcss postcss autoprefixer
+
+## phosphor react
+
+npm i phosphor-react
