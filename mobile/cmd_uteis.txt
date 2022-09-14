@@ -1,0 +1,8 @@
+## instalando fonts
+expo install expo-font @expo-google-fonts/inter
+
+## trabalhar com navegações 
+npm install react-native-safe-area-context
+
+## trabalhar com gradient
+expo install expo-linear-gradient
